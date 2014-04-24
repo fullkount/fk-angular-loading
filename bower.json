@@ -1,0 +1,23 @@
+{
+  "name": "fk-angular-loading",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fullkount/fk-angular-loading",
+  "authors": [
+    "Doug Grubba <douglas.grubba@gmail.com>"
+  ],
+  "description": "Just another Angular loading directive.",
+  "main": "src/fk-angular-loading.js",
+  "keywords": [
+    "angular",
+    "loading",
+    "spinner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
