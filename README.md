@@ -4,12 +4,12 @@ Just another Angular loading directive.
 
 ## Usage
 
-First
+__First__
 ```
 <script src="../src/fk-loading-directive.js"></script>
 ```
 
-Then
+__Then__
 ```
 <div fk-loading class="fk-loading"></div>
 ```
