@@ -6,7 +6,7 @@ Just another Angular loading directive.
 
 __First__
 ```
-<script src="../src/fk-loading-directive.js"></script>
+<script src="../src/fk-angular-loading.js"></script>
 ```
 
 __Then__
